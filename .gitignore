@@ -3,6 +3,8 @@
 # Webroot populated by Grunt
 public
 
+.idea
+
 # Logs / Code Coverage
 logs
 *.log
